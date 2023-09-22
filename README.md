@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsase.org%2Fnews%2Fetienne-ollion-on-ai%2Fattachment%2Fbanner-size-ai-and-machine-learning%2F&psig=AOvVaw0O2Ow8iSbBCnPe6aw2yyFs&ust=1695213724982000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjjqrLZtoEDFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
+<img src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif" align="center" style="width: 100%" />
 </div>  
   
 
