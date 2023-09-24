@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.pngmart.com/files/8/Matrix-PNG-File-1.png" align="center" style="width: 100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF945&width=435&lines=%E2%98%85%E2%9C%B4+++%F0%9D%93%94%F0%9D%93%B6%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B7+%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%AD+(%F0%9D%93%94%F0%9D%93%B6%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B9%F0%9D%94%82)+%E2%9C%B4%E2%98%85" alt="Typing SVG" /></a>
 </div>  
   
 # 💫 About Me:
