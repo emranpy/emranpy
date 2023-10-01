@@ -3,6 +3,7 @@
 </div>  
   
 # 💫 About Me:
+
 🔭 I’m currently working on open source projects<br><br>🌱 I’m currently learning Reinforcement Learning:<br><br>❓ Ask me about anything related to ML<br><br>⚡ Fun fact: I playfully compete with my AI creations for superior predictions
 
 
