@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emranpy&theme=" alt="emranpy" /></a> </p>
 
-- 🔭 I’m currently working on ** open source projects** <br>
+- 🔭 I’m currently working on ** Deep learning project** <br>
 - 👯 I’m looking to collaborate on ** open source projects** <br>
 - 🌱 I’m currently learning ** Reinforcement Learning:** <br>
 - 💬 Ask me about **anything related to ML and Django** <br>
