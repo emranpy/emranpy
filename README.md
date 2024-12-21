@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **open source projects** <br>
 - 🌱 I’m currently learning **Reinforcement Learning:** <br>
 - 💬 Ask me about **anything related to ML and Django** <br>
-- 💬 Email **ewidad@my.gcu.edu ** <br>
+- 💬 Email ** ewidad@my.gcu.edu ** <br>
 
 - ⚡ Fun fact **I playfully compete with my AI creations for superior predictions** <br>
 
