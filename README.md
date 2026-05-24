@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a full-stack developer on a mission to turn my ridiculous ideas into slightly less ridiculous apps.... follow my Jounry
 
-#contact
+# contact:
 emranwidad91@gmail.com
 ewidad@my.gcu.edu
 
